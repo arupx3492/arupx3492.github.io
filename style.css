@@ -401,6 +401,7 @@ h5 {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
+  margin-bottom: -30%;
 }
 
 .contact .row .content {
@@ -446,6 +447,13 @@ h5 {
   padding: 1rem 0;
   font-weight: normal;
 }
+/* arup */
+
+
+
+
+
+
 .mail {
   text-transform: lowercase;
   display: flex;
@@ -467,16 +475,17 @@ h5 {
   /* margin-bottom: 3px; */
   font-weight: bold;
   font-size: 16px;
-  color: aqua;
+  color:  yellow;
 }
 .decbutton{
   /* background-color: azure; */
-  margin: 3px;
-  padding: 3px;
-  border-radius: 10%;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5%;
   margin-left: 12px; 
-  background: rgb(7, 168, 93);
-  color: #fff;  
+  background: yellow;
+  color:  rgb(16, 90, 80);;  
+  height: 35px;
 }
 .decbuttonmain{
   margin-top: 5px;
@@ -516,7 +525,7 @@ h5 {
   margin: auto;
   color: white;
   font-weight: bolder;
-  background-color: brown;
+  background-color: rgb(16, 90, 80);
   border: 2px solid yellow;
   /* display: inline; */
   border-radius: 8px;
