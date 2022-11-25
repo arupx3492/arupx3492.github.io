@@ -450,11 +450,12 @@ h5 {
   padding: 1rem 0;
   font-weight: normal;
 }
-/* arup */
-.card1{
+/* arup 
+ .card1{
   margin-top: 5%;
   margin-left: 1%;
-}
+  width: 100%;
+}  */
 
 .address{
   margin: 5px;
