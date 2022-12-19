@@ -694,4 +694,10 @@ margin-bottom: 10px;
   .contact .row form {
     margin: 3rem 0;
   }
+  .info1>i{
+   gap: 15px;
+   display: flex;
+   justify-content: space-between;
+   margin-right: 15px;
+  }
 }
