@@ -36,6 +36,11 @@
   color: #333;
 }
 
+#user-detail-intro p {
+
+text-align: justify;
+}
+
 html {
   font-size: 62.5%;
   overflow-x: hidden;
